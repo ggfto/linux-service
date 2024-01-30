@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>in.gf2</groupId>
 	<artifactId>linux-service</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>linux-service</name>
 	<description>Linux Service</description>
 	<properties>
